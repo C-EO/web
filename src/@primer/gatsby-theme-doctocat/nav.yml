@@ -3,9 +3,9 @@
 - title: Policies
   url: /policies
   children:
-    - title: code-of-conduct
+    - title: Code of Conductt
       url: /policies/code-of-conduct
-    - title: contributing
+    - title: Contributing Guidlines
       url: /policies/contributing
-    - title: license
+    - title: License
       url: /policies/license
