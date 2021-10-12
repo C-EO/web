@@ -1,7 +1,11 @@
-- title: Page 1
-  url: /page-1
-- title: Example
-  url: /example
+- title: Nitely
+  url: /
+- title: Policies
+  url: /policies
   children:
-    - title: Page 2
-      url: /example/page-2
+    - title: code-of-conduct
+      url: /policies/code-of-conduct
+    - title: contributing
+      url: /policies/contributing
+    - title: license
+      url: /policies/license
