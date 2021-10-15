@@ -3,7 +3,7 @@
 - title: Policies
   url: /policies
   children:
-    - title: Code of Conductt
+    - title: Code of Conduct
       url: /policies/code-of-conduct
     - title: Contributing Guidlines
       url: /policies/contributing
